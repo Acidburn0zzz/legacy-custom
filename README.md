@@ -8,7 +8,8 @@ This is a old legacy-darwin os based version now called osxc-custom.
 ####        play around,
 ####        have fun
 
-<MIT><TEXT>
+<MIT>
+  <TEXT>
   The MIT License (MIT)
   Copyright (c) 2020 legacy-darwin based osxc os.
   
@@ -29,4 +30,7 @@ This is a old legacy-darwin os based version now called osxc-custom.
   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.
-</TEXT></MIT>
+  </TEXT>
+</MIT>
+
+Website-informations ressources: (http://osxc.github.io/) [!http://osxc.github.io/] 
